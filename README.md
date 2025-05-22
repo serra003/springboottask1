@@ -10,9 +10,10 @@ The application has two main pages:
 
 2. **Greeting Page** 
 
-   URL: 'http://localhost:8080/greeting'
+   URL: 'http://localhost:8080/greeting?name=serra'
   
    It also displays an image below the greeting.
-![greeting png](https://github.com/user-attachments/assets/9a234b2d-7741-4330-abeb-db75056afb2e)
+
+![Screenshot 2025-05-22 203113](https://github.com/user-attachments/assets/97b091d7-fe61-4a8d-8999-acbfc47e72c7)
 
 
